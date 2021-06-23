@@ -1,0 +1,64 @@
+
+#FormBtn{
+    width: 100%;
+}
+.container{
+    margin-top: 150px;
+    background-color: #fafafa;
+    box-shadow:         3px 3px 5px 6px #F3F4F5;
+    border: 2px solid #fff;
+    border-radius: .25rem;
+    font-family: "ALK Sanet", sans-serif;
+}
+
+#Amount{
+    background-color: #F7F8F9;
+    -webkit-box-shadow: 3px 3px 5px 6px #F3F4F5; 
+    -moz-box-shadow:    3px 3px 5px 6px #F3F4F5;  
+    box-shadow:         3px 3px 5px 6px #F3F4F5;
+    border: 2px solid #fff;
+    border-radius: .25rem;
+    padding: 50px
+}
+#AmountInput{
+    padding-top: 50px;
+}
+.Payment{
+    background-color: #F7F8F9;
+    -webkit-box-shadow: 3px 3px 5px 6px #F3F4F5; 
+    -moz-box-shadow:    3px 3px 5px 6px #F3F4F5;  
+    box-shadow:         3px 3px 5px 6px #F3F4F5;
+    border: 2px solid #fff;
+    border-radius: .25rem;
+}
+.PaymentWays{
+    display: flex;
+    font-size: 60px;
+    justify-content: space-around;
+}
+
+#CheckFormDiv{
+    background-color: #fff;
+    -webkit-box-shadow: 3px 3px 5px 6px #F3F4F5; 
+    -moz-box-shadow:    3px 3px 5px 6px #F3F4F5;  
+    box-shadow:         3px 3px 5px 6px #F3F4F5;
+}
+.card{
+    background-color: #F7F8F9 !important;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+    width: 250px;
+    height: 100px;
+    align-items: center;
+    vertical-align: center;
+    margin-bottom: 20px;
+}
+
+.uil{
+    color: #9A9A9A;
+}
+
+h5{
+    color: #9A9A9A;
+}
+
